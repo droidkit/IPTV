@@ -127,6 +127,157 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
+#EXTM3U
+#EXTINF:-1 group-title="Кино",Техно 24 Т24
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://stream8.cinerama.uz/1037/index.m3u8
+
+#EXTINF:-1 tvg-id="match-tv" group-title="Основные",Матч!
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+
+#EXTINF:-1 tvg-id="mosfilm" group-title="Кино",Мосфильм Золотая коллекция
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+http://stream.mcquack.net/369/index.m3u8
+
+#EXTINF:-1 tvg-id="pobeda" group-title="Кино",Победа
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://streaming.thestream.cyou/live/43.m3u8
+
+#EXTINF:-1 tvg-id="domkino" group-title="Кино",Дом Кино
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://streaming.thestream.cyou/live/44.m3u8
+
+#EXTINF:-1 tvg-id="kinokomedia" group-title="Кино",Кинокомедия
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://stream8.cinerama.uz/1232/index.m3u8
+
+#EXTINF:-1 tvg-id="muzhskoe-kino" group-title="Кино",Мужское кино
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://stream8.cinerama.uz/1237/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Кино ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+http://176.118.197.101/KinoTvHD/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Комедия
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+http://176.118.197.101/Komediya/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Остросюжетное
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+http://stream.mcquack.net/214/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Кинопоказ
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://stream8.cinerama.uz/1057/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Советское кино
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Русский бестселлер
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+http://stream.mcquack.net/208/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Пёс
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+
+#EXTINF:-1 group-title="Кино",365 дней
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+http://stream.mcquack.net/70/index.m3u8
+
+#EXTINF:-1 group-title="Путешествия",Моя планета
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://stream8.cinerama.uz/1247/index.m3u8
+
+#EXTINF:-1 tvg-id="nst" group-title="Развлекательные",НСТ
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+http://176.118.197.101/HCT/index.m3u8
+
+#EXTINF:-1 group-title="Развлекательные",Перец
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+http://stream.mcquack.net/121/index.m3u8
+
+#EXTINF:-1 group-title="Развлекательные",Смотрим
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="discovery-channel" group-title="Документальные",Discovery
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://stream8.cinerama.uz/1039/index.m3u8
+
+#EXTINF:-1 group-title="Документальные",Открытый мир
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://v4.proofix.ru/0mir/index.m3u8
+
+#EXTINF:-1 group-title="Детские",СТС Kids
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://stream8.cinerama.uz/1437/index.m3u8
+
+#EXTINF:-1 group-title="Детские",Nickelodeon
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://stream8.cinerama.uz/1500/index.m3u8
+
+#EXTINF:-1 group-title="Детские",Союзмультфильмы
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+http://194.26.229.213/souzmultfilm/index.m3u8
+
+#EXTINF:-1 group-title="Детские",В гостях у сказки
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://stream8.cinerama.uz/1270/index.m3u8
+
+#EXTINF:-1 group-title="Новости",Известия
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Усадьба
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://stream8.cinerama.uz/1427/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Наука
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://stream8.cinerama.uz/1248/index.m3u8
+
+#EXTINF:-1 group-title="Спорт",Мото Драйв
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://stitch.teletarget.ru/vintera/motodrive/index.m3u8
+
+#EXTINF:-1 group-title="Авто",Авто Плюс
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://stream8.cinerama.uz/1036/index.m3u8
+
+#EXTINF:-1 group-title="Авто",Драйв
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://stream8.cinerama.uz/1421/index.m3u8
+
+#EXTINF:-1 group-title="Природа и животные",Animal Planet
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://stream8.cinerama.uz/1043/index.m3u8
+
+#EXTINF:-1 group-title="Охота и рыбалка",Охотник и рыболов
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://stream8.cinerama.uz/1413/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Краснодар | Краснодарский край
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",РБК | Краснодарский край
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_KRDAR_RBC-KRD/variant.m3u8
+
+#EXTINF:-1 group-title="Региональные",Сочи 24 | Краснодарский край
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
+
+#EXTINF:-1 group-title="Региональные",Сочи Live | Краснодарский край
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+
+
+
 
 
 
