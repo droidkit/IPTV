@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:-1 tvg-id="ChannelOne.ru@SD" group-title="Общие",Первый канал
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -7,10 +6,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru@SD" group-title="Общие",Россия 1
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-
-#EXTINF:-1 tvg-id="NTV.ru@SD" group-title="Новости",НТВ
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 
 #EXTINF:-1 tvg-id="RussiaK.ru@SD" group-title="Культура",Россия К
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -23,22 +18,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-id="Kuban24.ru@SD" group-title="Региональные",Кубань 24
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
-
-#EXTINF:-1 group-title="Региональные",Краснодар | Краснодарский край
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="Региональные",РБК | Краснодарский край
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_KRDAR_RBC-KRD/variant.m3u8
-
-#EXTINF:-1 group-title="Региональные",Сочи 24 | Краснодарский край
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
-
-#EXTINF:-1 group-title="Региональные",Сочи Live | Краснодарский край
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channel5.ru@SD" group-title="Общие",Пятый Канал
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
@@ -60,11 +39,14 @@ https://stream8.cinerama.uz/1437/index.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 
+#EXTINF:-1 tvg-id="NTV.ru@SD" group-title="Новости",НТВ
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+
 #EXTINF:-1 tvg-id="RENTV.ru@SD" group-title="Общие",РЕН ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 
-#EXTM3U
 #EXTINF:-1 tvg-id="TV3.ru@SD" group-title="Развлечения",ТВ-3
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
@@ -84,6 +66,22 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 tvg-id="Friday.ru@SD" group-title="Развлечения",Пятница!
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+
+#EXTINF:-1 group-title="Региональные",Краснодар | Краснодарский край
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",РБК | Краснодарский край
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_KRDAR_RBC-KRD/variant.m3u8
+
+#EXTINF:-1 group-title="Региональные",Сочи 24 | Краснодарский край
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
+
+#EXTINF:-1 group-title="Региональные",Сочи Live | Краснодарский край
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Авто",Авто Плюс
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
@@ -196,28 +194,3 @@ http://stream.mcquack.net/121/index.m3u8
 #EXTINF:-1 group-title="Охота и рыбалка",Охотник и рыболов
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://stream8.cinerama.uz/1413/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
