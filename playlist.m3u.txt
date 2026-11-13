@@ -194,3 +194,19 @@ http://stream.mcquack.net/121/index.m3u8
 #EXTINF:-1 group-title="Охота и рыбалка",Охотник и рыболов
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://stream8.cinerama.uz/1413/index.m3u8
+
+#EXTINF:-1 tvg-id="domkino-premium" group-title="Кино",Дом Кино Премиум
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+http://stream.mcquack.net/108/index.m3u8
+
+#EXTINF:-1 tvg-id="kinoxit" group-title="Кино",Кинохит
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+http://stream.mcquack.net/126/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Киноужас
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+http://stream.mcquack.net/278/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы Catcast",КиноФантастика
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://cityeden.catcast.tv/content/45268/index.m3u8
