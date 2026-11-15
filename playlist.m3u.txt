@@ -31,10 +31,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 
-#EXTINF:-1 group-title="Детские",СТС Kids
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://stream8.cinerama.uz/1437/index.m3u8
-
 #EXTINF:-1 tvg-id="Domashniy.ru@SD" group-title="Кино",Домашний
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
@@ -83,37 +79,9 @@ https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Авто",Драйв
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://stream8.cinerama.uz/1421/index.m3u8
-
-#EXTINF:-1 group-title="Познавательные",Усадьба
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://stream8.cinerama.uz/1427/index.m3u8
-
-#EXTINF:-1 group-title="Кино",Техно 24 Т24
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://stream8.cinerama.uz/1037/index.m3u8
-
-#EXTINF:-1 group-title="Познавательные",Наука
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://stream8.cinerama.uz/1248/index.m3u8
-
-#EXTINF:-1 tvg-id="discovery-channel" group-title="Документальные",Discovery
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://stream8.cinerama.uz/1039/index.m3u8
-
 #EXTINF:-1 group-title="Документальные",Открытый мир
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://v4.proofix.ru/0mir/index.m3u8
-
-#EXTINF:-1 group-title="Природа и животные",Animal Planet
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://stream8.cinerama.uz/1043/index.m3u8
-
-#EXTINF:-1 group-title="Путешествия",Моя планета
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://stream8.cinerama.uz/1247/index.m3u8
 
 #EXTINF:-1 tvg-id="nst" group-title="Развлекательные",НСТ
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
@@ -130,10 +98,6 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 tvg-id="Carousel.ru@SD" group-title="Детские",Карусель
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-
-#EXTINF:-1 group-title="Детские",В гостях у сказки
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://stream8.cinerama.uz/1270/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Комедия
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
@@ -187,10 +151,6 @@ http://stream.mcquack.net/214/index.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://stream.mcquack.net/121/index.m3u8
 
-#EXTINF:-1 group-title="Охота и рыбалка",Охотник и рыболов
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://stream8.cinerama.uz/1413/index.m3u8
-
 #EXTINF:-1 tvg-id="domkino-premium" group-title="Кино",Дом Кино Премиум
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://stream.mcquack.net/108/index.m3u8
@@ -202,7 +162,3 @@ http://stream.mcquack.net/126/index.m3u8
 #EXTINF:-1 group-title="Кино",Киноужас
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://stream.mcquack.net/278/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы Catcast",КиноФантастика
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://cityeden.catcast.tv/content/45268/index.m3u8
