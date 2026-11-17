@@ -139,10 +139,6 @@ http://stream.mcquack.net/369/index.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://streaming.thestream.cyou/live/44.m3u8
 
-#EXTINF:-1 group-title="Кино",Кино ТВ
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-http://176.118.197.101/KinoTvHD/index.m3u8
-
 #EXTINF:-1 group-title="Кино",Остросюжетное
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://stream.mcquack.net/214/index.m3u8
@@ -158,7 +154,3 @@ http://stream.mcquack.net/108/index.m3u8
 #EXTINF:-1 tvg-id="kinoxit" group-title="Кино",Кинохит
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://stream.mcquack.net/126/index.m3u8
-
-#EXTINF:-1 group-title="Кино",Киноужас
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-http://stream.mcquack.net/278/index.m3u8
