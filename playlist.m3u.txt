@@ -150,3 +150,40 @@ http://stream.mcquack.net/108/index.m3u8
 #EXTINF:-1 tvg-id="kinoxit" group-title="Кино",Кинохит
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://stream.mcquack.net/126/index.m3u8
+
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Кино",Viju TV1000 Русское
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="Документальные",Неизвестная Россия
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://cdn.ntv.ru/unknown_russia/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Загородная жизнь
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+http://185.57.68.33/40/index.m3u8
+
+#EXTINF:-1 group-title="Спорт",Мото Драйв
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://stitch.teletarget.ru/vintera/motodrive/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы",100% Детское
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
+
+#EXTINF:-1 group-title="Кинозалы Kinowalk",FoxKids
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://kinowalk.hopto.org/foxkids_remastered_live
+
+#EXTINF:-1 group-title="Кинозалы Kinowalk",Комедии
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://kinowalk.hopto.org/cmexye4ku_live
+
+#EXTINF:-1 group-title="Кинозалы Kinowalk",KinoMix 1
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://kinowalk.hopto.org/yurich_kinomix_live
+
+#EXTINF:-1 group-title="Кинозалы Kinowalk",KinoMix 2
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://kinowalk.hopto.org/dak3767_live
